@@ -2,8 +2,8 @@
  
 Deveney, Teo; Mueller, Eike; Shardlow, Tony
 
-[ArXiv](https://arxiv.org/abs/1910.01547)
-[Zenodo](https://zenodo.org/record/3679314)
+- [ArXiv](https://arxiv.org/abs/1910.01547)
+- [Zenodo](https://zenodo.org/record/3679314)
 
 ## Biot model
 
