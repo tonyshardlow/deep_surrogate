@@ -7,6 +7,8 @@ Deveney, Teo; Mueller, Eike; Shardlow, Tony
 
 ## Biot model
 
-[Open in Colab - PDE solver](https://colab.research.google.com/github/tonyshardlow/deep_surrogate/blob/main/biot.ipynb)
 
-[Open in Colab - MCMC sampler using stored model](https://colab.research.google.com/github/tonyshardlow/deep_surrogate/blob/main/mcmc_biot.ipynb)
+
+- PDE solver [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tonyshardlow/deep_surrogate/blob/main/biot.ipynb)
+- MCMC sampler [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tonyshardlow/deep_surrogate/blob/main/mcmc_biot.ipynb)
+
